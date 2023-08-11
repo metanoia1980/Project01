@@ -6,7 +6,9 @@ Not so much a project but rather an attempt to learn Github by uploading my firs
 I am new to Linux and have enjoyed playing around with these 3 config files I am sharing here. 
 
 1- .bashrc
+
 2- .nanorc
+
 3- config.cong (for neofetch) 
 
 I have since changed from kitty to Tilix. No picture display on it, only ASCII but its my fav terminal.
